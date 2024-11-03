@@ -1,0 +1,18 @@
+html{
+background-color: black;
+}
+div {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    font-family: Libre Baskerville, serif;
+    width: 50%;
+    margin-left: 25%;
+}
+img {
+    border: 5px, solid, white;
+    height: 400px;
+    width: 300px;
+    width: 100%;
+}
